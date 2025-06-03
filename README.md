@@ -1,4 +1,4 @@
-## Welcome to the Blog Aggregator
+## Welcome to the Blog Aggre- _gator_
 
 We're building an RSS feed aggregator in TypeScript called **Gator** 🐊. This CLI tool allows users to:
 
